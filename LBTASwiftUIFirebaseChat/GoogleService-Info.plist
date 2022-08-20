@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1036688001169-2ukq54va86o1gdpq49q5381o2hnc7jqe.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1036688001169-2ukq54va86o1gdpq49q5381o2hnc7jqe</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB1CKeBzf8X6ozlmSwyXDftEgt8ejPghBs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1036688001169</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Minate.LBTASwiftUIFirebaseChat</string>
+	<key>PROJECT_ID</key>
+	<string>lbta-swiftui-firebase-ch-7b640</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lbta-swiftui-firebase-ch-7b640.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1036688001169:ios:71a871608d44decd2d5730</string>
+</dict>
+</plist>
