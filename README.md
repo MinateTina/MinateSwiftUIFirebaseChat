@@ -6,25 +6,14 @@ Hey there, I'm Tina, a passionate self-taught iOS developer who's in love with c
 
 
 ## Portfolio ☕
-#### List out of transactions under various created credit cards with categories as your own preference, including beautiful crystal reports on iPad as your unique asset.
+#### Fetch current users and personal chat contents from Firebase and Firestore as well as storing them.
 
 <p float="left">
-  <img src="coreDataiPhone.png" width="534" />
-  <img src="/coreDataIpad.png" width="300" />
+  <img src="firebaseChat.png" width="400" />
+
 </p> 
 
-- UI Display with Credit Cards
-  - Card Form Pickers
-- Persisting Card Information with Core Data  
-- Adding Card Transactions
-  - Involving Photo Picker with UIViewControllerRepresentable
-  - One to Many Relationship Transactions 
-- Many to Many Transactions
-  - Category Selection Bindings 
-  - Seed DB and Prefill Form
-  - Filtering Algorithm 
-  - Card Balance Reduced Function
-- iPad Support and Device Classes
+
 
 
 
