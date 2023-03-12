@@ -13,6 +13,21 @@ Hey there, I'm Tina, a passionate self-taught iOS developer who's in love with c
 
 </p> 
 
+- Create a Login Page
+  - Installing Firestore and Saving User Data Collection
+- Main Messages View
+  - Fetch Current User Firestore
+  - Sign out of Firebase
+- Chat Log Sending Messages
+  - Show All Users for Creating Message
+  - Navigation Link to Chat Log View
+  - Chat Log UI Setup
+  - Send and Save Messages to Firestore
+  - Fetch Messages Documents with Snapshot Listener
+- Recent Main Messages
+  - Save and Fetch Recent Messages
+  - Removing Snapshot Listeners
+
 
 
 
